@@ -5,4 +5,4 @@ An expoit [originally described here](https://blog.exodusintel.com/2017/07/26/br
 
 ##Progress so far
 
-As of this time the exploit currently makes the Nitnendo Switch crash upon connecting with error code 2107-0401 and that's all I have to report at this time ;)
+As of this time the exploit currently makes the Nintendo Switch crash upon connecting with error code 2107-0401 and that's all I have to report at this time ;)
